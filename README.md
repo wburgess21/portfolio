@@ -9,3 +9,7 @@ Most of my work is private due to client confidentiality, but I regularly experi
 
 View my work:
 <link>https://www.onsitesystems.co.uk</link>
+<link>https://www.operex.io</link>
+<link>https://www.getacadex.app</link>
+<link>https://www.getmomento.app</link>
+<link>https://www.taxmate-app.com</link>
