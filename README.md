@@ -8,8 +8,8 @@ Passionate about human-centered AI and rapid prototyping.
 Most of my work is private due to client confidentiality, but I regularly experiment with new AI tools. Please reach out if you need any more information or want to connect, I would love to chat!
 
 View my work:
-<link>https://www.onsitesystems.co.uk</link>  
-<link>https://www.operex.io</link>  
-<link>https://www.getacadex.app</link>  
-<link>https://www.getmomento.app</link>  
-<link>https://www.taxmate-app.com</link>  
+[onsitesystems.co.uk](https://www.onsitesystems.co.uk)  
+[operex.io](https://www.operex.io)  
+[getacadex.app](https://www.getacadex.app)  
+[getmomento.app](https://www.getmomento.app)  
+[taxmate-app.com](https://www.taxmate-app.com)
